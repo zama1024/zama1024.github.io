@@ -27,11 +27,15 @@
     border-radius: 20px;
     border: 5px solid oldlace;
   }
+  #nav{
+    position: relative;
+  }
   #navicons{
     position: absolute;
     top: -20%;
     left: 0%;
     width: 30%;
+    margin-top: -7%;
   }
   #navicons li{
     padding-left: 3%;
@@ -41,6 +45,7 @@
     top: -20%;
     right: 0%;
     width: 30%;
+    margin-top: -7%;
   }
 
 
