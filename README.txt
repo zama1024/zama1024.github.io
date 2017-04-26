@@ -1,1 +1,1 @@
-Github Repo for personal website
+Github Repo for personal website.
