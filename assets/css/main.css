@@ -58,6 +58,9 @@
     text-align: center;
 
   }
+	.school-items {
+		width: 112%;
+	}
   ul.schools img {
     width: 200px;
     height: 200px;
